@@ -1,7 +1,7 @@
 # 💫 About Me:
 Desenvolvedor Backend Java Pleno com experiência em sistemas de negócio de médio e grande porte, atuando principalmente com Java e Spring Boot em ambientes de microserviços.<br><br>Vivência no desenvolvimento de APIs, integração entre sistemas, bancos de dados relacionais e construção de soluções backend com foco em qualidade, testes automatizados e regras de negócio complexas. Atuação em ambientes corporativos, times ágeis e sustentação de serviços críticos, incluindo contextos financeiros e plataformas de alto volume de usuários.
 
-## 🚀 Projetos Destacados
+## 🚀 Featured projects
 - **[TechShop](https://github.com/lucas-peixoto/TechShop)**: TechShop é uma API de microserviços para gerenciamento de uma loja virtual.
 - **[TechFlix](https://github.com/sergiobsilva2505/techFlix)**: API de streaming de vídeos
 - **[HackatonFIAP](https://github.com/lucas-peixoto/HackatonFIAP)**: Microserviços de hospitalidade desenvolvido num Hackaton da FIAP
