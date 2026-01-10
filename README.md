@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou Sérgio Bezerra da Silva
 
-Sou desenvolvedor especializado em **Java** e **Spring Boot**, com experiência em desenvolvimento de **APIs** e atualmente me aprofundando em **Spring WebFlux** e **React**. Após mais de 20 anos em uma área completamente diferente, fiz uma transição de carreira bem-sucedida e hoje estou totalmente dedicado à tecnologia.
+Desenvolvedor Backend Java Pleno com experiência em sistemas de negócio de médio e grande porte, atuando principalmente com Java e Spring Boot em ambientes de microserviços.
+
+Vivência no desenvolvimento de APIs, integração entre sistemas, bancos de dados relacionais e construção de soluções backend com foco em qualidade, testes automatizados e regras de negócio complexas. Atuação em ambientes corporativos, times ágeis e sustentação de serviços críticos, incluindo contextos financeiros e plataformas de alto volume de usuários.
 
 ---
 
