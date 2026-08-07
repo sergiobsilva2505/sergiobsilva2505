@@ -31,3 +31,4 @@ Aplicação full stack construída do zero para consolidar arquitetura limpa e b
 
 ## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sergiobsilva2505)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&langs_count=5&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&langs_count=5&theme=darcula)
