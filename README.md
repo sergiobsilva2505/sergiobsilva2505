@@ -32,3 +32,7 @@ Aplicação full stack construída do zero para consolidar arquitetura limpa e b
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergiobsilva2505&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=sergiobsilva2505&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&layout=donut&langs_count=5&hide_values=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&layout=donut&langs_count=5&hide_values=true&theme=github_dark_dimmed)
+
+<!-- para que eu me lembre sempre em qual site ajustar o git stats extended -->
+<!-- https://github.com/stats-organization/github-stats-extended -->
+<!-- https://github-stats-extended.vercel.app/frontend -->
