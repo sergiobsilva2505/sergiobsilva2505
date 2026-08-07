@@ -30,5 +30,5 @@ Aplicação full stack construída do zero para consolidar arquitetura limpa e b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sergiobsilva2505)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&langs_count=5&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&langs_count=5&theme=darcula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergiobsilva2505&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=sergiobsilva2505&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&layout=compact&langs_count=4&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=sergiobsilva2505&layout=compact&langs_count=4&theme=one_dark_pro)
